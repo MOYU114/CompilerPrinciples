@@ -1,0 +1,12 @@
+﻿  main.cpp
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(67,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(80,27): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(89,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(107,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(113,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(192,27): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(209,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(262,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(266,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\college\大二下\cp\作业\第二章\task01\Project1\Project1\main.cpp(272,23): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> G:\college\大二下\cp\作业\第二章\task01\Project1\Debug\Project1.exe

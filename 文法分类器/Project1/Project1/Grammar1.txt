@@ -1,0 +1,8 @@
+G[S]
+S,B,C
+S::=aSBC|aBC
+CB::=BC
+aB::=ab
+bB::=bb
+bC::=bc
+cC::=cc

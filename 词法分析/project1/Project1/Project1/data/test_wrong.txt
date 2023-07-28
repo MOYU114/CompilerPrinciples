@@ -1,0 +1,10 @@
+module test2() {
+	1a = 22;
+	int1 abc_abc = 1.1.1.1.1;
+	if((a==1){
+		c=2
+	}else{
+		a?=2;
+		22=a;
+	}
+}
